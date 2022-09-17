@@ -32,7 +32,7 @@
   <img alt="Sonar" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" />
 </p>
 
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=NyorJa&theme=blue-green
-
-https://github-readme-stats.vercel.app/api?username=NyorJa&theme=blue-green
+<p>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyorJa&theme=blue-green" />
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=NyorJa&theme=blue-green" />
+</p>
