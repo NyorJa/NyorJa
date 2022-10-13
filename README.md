@@ -32,3 +32,5 @@
   <img alt="Sonar" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 </p>
+
+[![@nyorja1's Holopin board](https://holopin.me/nyorja1)](https://holopin.io/@nyorja1)
