@@ -3,11 +3,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-@thirdy_fetalvero-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/thirdy_fetalvero)](https://instagram.com/thirdy_fetalvero) [![Linkedin Badge](https://img.shields.io/badge/-NyorJa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudolf-fetalvero-iii-ba27a454/)](https://www.linkedin.com/in/rudolf-fetalvero-iii-ba27a454/)
 [![Gmail Badge](https://img.shields.io/badge/-botsot.felix@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:botsot.felix@gmail.com)](mailto:botsot.felix@gmail.com)
 
-  <img alt="Summary" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyorJa&theme=tokyonight" />
-  <img alt="Throphy" src="https://github-profile-trophy.vercel.app/?username=NyorJa" />
-   <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NyorJa&theme=tokyonight" />
-
-
 <h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -39,5 +34,9 @@
   <img alt="Maven" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
+
+  <img alt="Summary" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyorJa&theme=tokyonight" />
+  <img alt="Throphy" src="https://github-profile-trophy.vercel.app/?username=NyorJa" />
+   <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NyorJa&theme=tokyonight" />
 
 [![@nyorja1's Holopin board](https://holopin.me/nyorja1)](https://holopin.io/@nyorja1)
