@@ -35,7 +35,6 @@
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-  <img alt="Summary" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyorJa&theme=tokyonight" />
   <img alt="Throphy" src="https://github-profile-trophy.vercel.app/?username=NyorJa" />
    <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NyorJa&theme=tokyonight" />
 
